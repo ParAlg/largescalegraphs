@@ -27,9 +27,9 @@ see the [SPAA site][spaa] for more details.
 * <b>1:40 -- 2:10</b> --- Title TBA, <em>[Jakub Łącki][kuba]</em>
 * <b>2:15 -- 2:45</b> --- Title TBA, <em>[Lars Gottesbüren][lars]</em>
 * <b>2:50 -- 3:00</b> --- Break
-* <b>3:35 -- 4:05</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
-* <b>3:00 -- 3:30</b> --- Title TBA, <em>[Julian Shun][julian]</em>
-* <b>4:10 -- 4:50</b> --- Panel Discussion.
+* <b>3:05 -- 3:35</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
+* <b>3:40 -- 4:10</b> --- Title TBA, <em>[Julian Shun][julian]</em>
+* <b>4:15 -- 5:00</b> --- Panel Discussion.
 If you have any questions/topics you would like to see discussed during the panel, please submit them [here][form]!
 
 <b>Organized by:</b> [Laxman Dhulipala][laxman]
