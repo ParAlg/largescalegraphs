@@ -1,0 +1,10 @@
+name: Laxman Dhulipala
+email: laxman@umd.edu
+url: http://ldhulipala.github.io
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  fenced_code_blocks: true
+
