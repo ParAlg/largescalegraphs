@@ -1,10 +1,5 @@
 name: Laxman Dhulipala
 email: laxman@umd.edu
-url: http://ldhulipala.github.io
+url: paralg.github.io/largescalegraphs
 
 markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  fenced_code_blocks: true
-
