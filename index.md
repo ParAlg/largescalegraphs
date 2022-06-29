@@ -5,15 +5,13 @@ title: Laxman Dhulipala
 
 # Workshop on Large-Scale Graph Processing (SPAA 2022)
 
-<br>
 Quickly processing very large graphs containing billions to trillions of vertices and edges is increasingly important in practice today. The goal of this workshop is to bring together researchers studying theoretical and practical aspects of large-scale parallel graph processing to share their results on new problems, models, and algorithms, and to share progress in translating theoretical results to practical large-scale graph processing solutions.
 
 Some topics that will be covered include industrial applications of parallel graph processing, frameworks for graph processing, representations of dynamic graphs, parallel graph-clustering, theoretically-efficient graph algorithms, and parallel graph partitioning.
 
-The workshop will take place on Monday, July 11th from 1--4pm. Please
+The workshop will take place on Monday, July 11th from 1--5pm. Please
 see the [SPAA site][spaa] for more details.
 
-<br>
 
 ### Agenda:
 
@@ -21,27 +19,25 @@ see the [SPAA site][spaa] for more details.
 * Present successes and limitations of existing approaches
 * Discuss future research directions
 
-<br>
 
 ### Schedule and Speaker List
 
-* <b>1:00 --1:30</b> --- Title TBA, <em>[Yan Gu][yan]</em>
-* <b>1:35 -- 2:05</b> --- Title TBA, <em>[Jakub Łącki][kuba]</em>
-* <b>2:10 -- 2:40</b> --- Title TBA, <em>[Lars Gottesbüren][lars]</em>
-* <b>2:45 -- 3:00</b> --- Break
+* <b>1:00 --1:05</b> --- Introduction
+* <b>1:05 --1:35</b> --- Title TBA, <em>[Yan Gu][yan]</em>
+* <b>1:40 -- 2:10</b> --- Title TBA, <em>[Jakub Łącki][kuba]</em>
+* <b>2:15 -- 2:45</b> --- Title TBA, <em>[Lars Gottesbüren][lars]</em>
+* <b>2:50 -- 3:00</b> --- Break
 * <b>3:35 -- 4:05</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
 * <b>3:00 -- 3:30</b> --- Title TBA, <em>[Julian Shun][julian]</em>
 * <b>4:10 -- 4:50</b> --- Panel Discussion.
 If you have any questions/topics you would like to see discussed during the panel, please submit them [here][form]!
 
-<b>Organizers:</b> [Laxman Dhulipala][laxman]
+<b>Organized by:</b> [Laxman Dhulipala][laxman]
 
-<br>
 
 ### Abstracts
 TBA
 
-<br>
 
 ### Code of Conduct
 
