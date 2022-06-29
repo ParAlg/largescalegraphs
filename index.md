@@ -9,7 +9,7 @@ Quickly processing very large graphs containing billions to trillions of vertice
 
 Some topics that will be covered include industrial applications of parallel graph processing, frameworks for graph processing, representations of dynamic graphs, parallel graph-clustering, theoretically-efficient graph algorithms, and parallel graph partitioning.
 
-The workshop will take place on Monday, July 11th from 1--5pm. Please
+The workshop will take place on Monday, July 11th from 2--6pm. Please
 see the [SPAA site][spaa] for more details.
 
 
