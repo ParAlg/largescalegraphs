@@ -38,7 +38,15 @@ If you have any questions/topics you would like to see discussed during the pane
 TBA
 
 
-<b>Title: GraphIt - A High-Performance DSL for Graph Analytics</b> <em>(Julian Shun)</em>
+<b>Title: Recent Advances in Parallel Graph Partitioning</b> <em>([Lars Gottesbüren][lars])</em>
+
+<b>Abstract:</b>
+Dividing data or workload among capacity-bounded processors in a way that minimizes inter-processor communication is a fundamental application of balanced graph partitioning. This talk gives an overview of our recent work on parallelizing techniques for a variety of time-quality trade-offs. I will also discuss adaptations to hypergraphs, buffered streaming, partitioning into a large number of blocks, as well as intricacies of efficient parallel implementations.
+
+
+
+
+<b>Title: GraphIt - A High-Performance DSL for Graph Analytics</b> <em>([Julian Shun][julian])</em>
 
 <b>Abstract:</b> 
 This talk will present GraphIt, a domain-specific language for parallel graph computations that generates fast implementations for algorithms with different performance characteristics running on graphs with different sizes and structures. GraphIt separates what is computed (algorithm) from how it is computed (schedule). Programmers specify the algorithm using an algorithm language, and performance optimizations are specified using a separate scheduling language. The algorithm language simplifies expressing the algorithms, while exposing opportunities for optimizations. The scheduling language enables programmers to easily search through the complex optimization tradeoff space for graph processing. GraphIt supports efficient implementations of both unordered and ordered graph algorithms using combinations of existing as well as new optimizations that we design. Furthermore, we were able to make GraphIt portable across multicore CPUs, GPUs, Swarm, and the Hammerblade manycore architecture with reasonable effort by decoupling the architecture-independent algorithm from the architecture-specific schedules and backends.
