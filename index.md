@@ -25,7 +25,7 @@ see the [SPAA site][spaa] for more details.
 * <b>2:00 --2:05</b> --- Introduction
 * <b>2:05 --2:35</b> --- Title TBA, <em>[Yan Gu][yan]</em>
 * <b>2:40 -- 3:10</b> --- Title TBA, <em>[Jakub Łącki][kuba]</em>
-* <b>3:15 -- 3:45</b> --- Title TBA, <em>[Lars Gottesbüren][lars]</em>
+* <b>3:15 -- 3:45</b> --- Recent Advances in Parallel Graph Partitioning, <em>[Lars Gottesbüren][lars]</em>
 * <b>3:50 -- 4:00</b> --- Break
 * <b>4:00 -- 4:35</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
 * <b>4:40 -- 5:10</b> --- GraphIt - A High-Performance DSL for Graph Analytics, <em>[Julian Shun][julian]</em>
