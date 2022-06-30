@@ -28,7 +28,7 @@ see the [SPAA site][spaa] for more details.
 * <b>3:15 -- 3:45</b> --- Title TBA, <em>[Lars Gottesbüren][lars]</em>
 * <b>3:50 -- 4:00</b> --- Break
 * <b>4:00 -- 4:35</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
-* <b>4:40 -- 5:10</b> --- Title TBA, <em>[Julian Shun][julian]</em>
+* <b>4:40 -- 5:10</b> --- GraphIt - A High-Performance DSL for Graph Analytics, <em>[Julian Shun][julian]</em>
 * <b>5:15 -- 6:00</b> --- Panel Discussion.
 If you have any questions/topics you would like to see discussed during the panel, please submit them [here][form]!
 
