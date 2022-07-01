@@ -39,6 +39,7 @@ TBA
 
 
 <b>Title: Parallel Algorithm Design for Classic Graph Problems</b> <em>([Yan Gu][yan])</em>
+
 <b> Abstract:</b>
 This talk will cover a few new parallel algorithms on classic graph problems such as single-source shortest-paths (the rho-stepping and the delta\*-stepping algorithms), biconnectivity (the vertex-labeling algorithm), and strongly connected components (the BGSS algorithm).  These algorithms are simple and have good theoretical guarantees on work, span, and space.  In addition, this talk will discuss a new data structure, the parallel hash bag, that can maintain the vertex subset in many graph algorithms efficiently, and the local-search technique that can accelerate many traversal-based graph algorithms.
 
