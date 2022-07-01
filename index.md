@@ -23,7 +23,7 @@ see the [SPAA site][spaa] for more details.
 ### Schedule and Speaker List
 
 * <b>2:00 --2:05</b> --- Introduction
-* <b>2:05 --2:35</b> --- Title TBA, <em>[Yan Gu][yan]</em>
+* <b>2:05 --2:35</b> --- Parallel Algorithm Design for Classic Graph Problems, <em>[Yan Gu][yan]</em>
 * <b>2:40 -- 3:10</b> --- Title TBA, <em>[Jakub Łącki][kuba]</em>
 * <b>3:15 -- 3:45</b> --- Recent Advances in Parallel Graph Partitioning, <em>[Lars Gottesbüren][lars]</em>
 * <b>3:50 -- 4:00</b> --- Break
@@ -36,6 +36,11 @@ If you have any questions/topics you would like to see discussed during the pane
 
 ### Abstracts
 TBA
+
+
+<b>Title: Parallel Algorithm Design for Classic Graph Problems</b> <em>([Yan Gu][yan])</em>
+<b> Abstract:</b>
+This talk will cover a few new parallel algorithms on classic graph problems such as single-source shortest-paths (the rho-stepping and the delta\*-stepping algorithms), biconnectivity (the vertex-labeling algorithm), and strongly connected components (the BGSS algorithm).  These algorithms are simple and have good theoretical guarantees on work, span, and space.  In addition, this talk will discuss a new data structure, the parallel hash bag, that can maintain the vertex subset in many graph algorithms efficiently, and the local-search technique that can accelerate many traversal-based graph algorithms.
 
 
 <b>Title: Recent Advances in Parallel Graph Partitioning</b> <em>([Lars Gottesbüren][lars])</em>
