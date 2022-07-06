@@ -36,8 +36,6 @@ If you have any questions/topics you would like to see discussed during the pane
 <b>Organized by:</b> [Laxman Dhulipala][laxman]
 
 ### Abstracts
-TBA
-
 
 <b>Title: Parallel Algorithm Design for Classic Graph Problems</b> <em>([Yan Gu][yan])</em>
 
