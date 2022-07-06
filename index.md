@@ -12,6 +12,7 @@ Some topics that will be covered include industrial applications of parallel gra
 The workshop will take place on Monday, July 11th from 2--6pm. Please
 see the [SPAA site][spaa] for more details.
 
+<b>Virtual Participation</b> We will stream and record the workshop on zoom. Please find the meeting info [here](zoom).
 
 ### Agenda:
 
@@ -24,7 +25,7 @@ see the [SPAA site][spaa] for more details.
 
 * <b>2:00 --2:05</b> --- Introduction
 * <b>2:05 --2:35</b> --- Parallel Algorithm Design for Classic Graph Problems, <em>[Yan Gu][yan]</em>
-* <b>2:40 -- 3:10</b> --- Title TBA, <em>[Jakub Łącki][kuba]</em>
+* <b>2:40 -- 3:10</b> --- Scaling up Hierarchical Agglomerative Clustering to Trillion-Edge Graphs, <em>[Jakub Łącki][kuba]</em>
 * <b>3:15 -- 3:45</b> --- Recent Advances in Parallel Graph Partitioning, <em>[Lars Gottesbüren][lars]</em>
 * <b>3:50 -- 4:00</b> --- Break
 * <b>4:00 -- 4:35</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
@@ -42,6 +43,16 @@ TBA
 
 <b> Abstract:</b>
 This talk will cover a few new parallel algorithms on classic graph problems such as single-source shortest-paths (the rho-stepping and the delta\*-stepping algorithms), biconnectivity (the vertex-labeling algorithm), and strongly connected components (the BGSS algorithm).  These algorithms are simple and have good theoretical guarantees on work, span, and space.  In addition, this talk will discuss a new data structure, the parallel hash bag, that can maintain the vertex subset in many graph algorithms efficiently, and the local-search technique that can accelerate many traversal-based graph algorithms.
+
+
+<b>Title: Scaling up Hierarchical Agglomerative Clustering to Trillion-Edge Graphs</b>  <em>([Jakub Łącki][kuba])</em>
+
+<b> Abstract:</b>
+Hierarchical agglomerative clustering (HAC) is a simple and widely popular clustering method known for its high empirical quality. However, the applications of HAC on large datasets have been limited by the high computational cost of the existing implementations. Addressing this limitation has been an elusive task, as the algorithm has been believed to be inherently sequential and computationally expensive.
+
+In this talk we study the HAC problem on edge-weighted graphs assuming the widely-used average linkage similarity function. We first give conditional hardness results showing that HAC requires time that is super-linear in the input size, and cannot be parallelized efficiently, formalizing the commonly held intuitions about the algorithm. We then show how both of these limitations can be bypassed by allowing approximation. Namely, we show that 1+ε approximate HAC can be implemented in near-linear work and polylogarithmic depth.
+
+Finally, we show that our ideas lead to highly scalable HAC implementations. In a shared memory parallel setting (i.e., on a single machine) we obtain an over 50x speedup over the best existing baseline. Moreover, in the distributed setting, we demonstrate that our implementation scales to graphs containing trillions of edges.
 
 
 <b>Title: Recent Advances in Parallel Graph Partitioning</b> <em>([Lars Gottesbüren][lars])</em>
@@ -72,3 +83,4 @@ The workshop follows the [ACM Policy on Harassment and Discrimination][acmharass
 [brian]: https://brianwheatman.com/
 [julian]: https://people.csail.mit.edu/jshun/
 [form]: https://forms.gle/myvcibc9Bs7wrJPd7
+[zoom]: https://docs.google.com/document/d/1om-PvjaC49-zOxKRjcUxOGXcDayXjpq6VtrXr8CEoEg/edit
