@@ -12,7 +12,7 @@ Some topics that will be covered include industrial applications of parallel gra
 The workshop will take place on Monday, July 11th from 2--6pm. Please
 see the [SPAA site][spaa] for more details.
 
-<b>Virtual Participation</b> We will stream and record the workshop on zoom. Please find the meeting info [here](zoom).
+<b>Virtual Participation:</b> We will stream and record the workshop on zoom. Please find the meeting info [here](zoom).
 
 ### Agenda:
 
