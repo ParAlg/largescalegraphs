@@ -42,7 +42,6 @@ If you have any questions/topics you would like to see discussed during the pane
 <b> Abstract:</b>
 This talk will cover a few new parallel algorithms on classic graph problems such as single-source shortest-paths (the rho-stepping and the delta\*-stepping algorithms), biconnectivity (the vertex-labeling algorithm), and strongly connected components (the BGSS algorithm).  These algorithms are simple and have good theoretical guarantees on work, span, and space.  In addition, this talk will discuss a new data structure, the parallel hash bag, that can maintain the vertex subset in many graph algorithms efficiently, and the local-search technique that can accelerate many traversal-based graph algorithms.
 
-<br>
 
 <b>Title: Scaling up Hierarchical Agglomerative Clustering to Trillion-Edge Graphs</b>  <em>([Jakub Łącki][kuba])</em>
 
@@ -53,14 +52,12 @@ In this talk we study the HAC problem on edge-weighted graphs assuming the widel
 
 Finally, we show that our ideas lead to highly scalable HAC implementations. In a shared memory parallel setting (i.e., on a single machine) we obtain an over 50x speedup over the best existing baseline. Moreover, in the distributed setting, we demonstrate that our implementation scales to graphs containing trillions of edges.
 
-<br>
 
 <b>Title: Recent Advances in Parallel Graph Partitioning</b> <em>([Lars Gottesbüren][lars])</em>
 
 <b>Abstract:</b>
 Dividing data or workload among capacity-bounded processors in a way that minimizes inter-processor communication is a fundamental application of balanced graph partitioning. This talk gives an overview of our recent work on parallelizing techniques for a variety of time-quality trade-offs. I will also discuss adaptations to hypergraphs, buffered streaming, partitioning into a large number of blocks, as well as intricacies of efficient parallel implementations.
 
-<br>
 
 <b>Title: GraphIt - A High-Performance DSL for Graph Analytics</b> <em>([Julian Shun][julian])</em>
 
