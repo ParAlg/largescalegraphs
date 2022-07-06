@@ -12,7 +12,7 @@ Some topics that will be covered include industrial applications of parallel gra
 The workshop will take place on Monday, July 11th from 2--6pm. Please
 see the [SPAA site][spaa] for more details.
 
-<b>Virtual Participation:</b> We will stream and record the workshop on zoom. Please find the meeting info [here](zoom).
+<b>Virtual Participation:</b> We will stream and record the workshop on zoom. Please find the meeting info [here](zoomlink).
 
 ### Agenda:
 
@@ -78,5 +78,5 @@ The workshop follows the [ACM Policy on Harassment and Discrimination][acmharass
 [lars]: https://scholar.google.de/citations?user=G5XO7J4AAAAJ&hl=en
 [brian]: https://brianwheatman.com/
 [julian]: https://people.csail.mit.edu/jshun/
+[zoomlink]: https://docs.google.com/document/d/1om-PvjaC49-zOxKRjcUxOGXcDayXjpq6VtrXr8CEoEg
 [form]: https://forms.gle/myvcibc9Bs7wrJPd7
-[zoom]: https://docs.google.com/document/d/1om-PvjaC49-zOxKRjcUxOGXcDayXjpq6VtrXr8CEoEg/edit
