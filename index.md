@@ -28,7 +28,7 @@ see the [SPAA site][spaa] for more details.
 * <b>2:40 -- 3:10</b> --- Scaling up Hierarchical Agglomerative Clustering to Trillion-Edge Graphs, <em>[Jakub Łącki][kuba]</em>
 * <b>3:15 -- 3:45</b> --- Recent Advances in Parallel Graph Partitioning, <em>[Lars Gottesbüren][lars]</em>
 * <b>3:50 -- 4:00</b> --- Break
-* <b>4:00 -- 4:35</b> --- Title TBA, <em>[Brian Wheatman][brian]</em>
+* <b>4:00 -- 4:35</b> --- So You Want to Make a Dynamic Graph Data Structure <em>[Brian Wheatman][brian]</em>
 * <b>4:40 -- 5:10</b> --- GraphIt - A High-Performance DSL for Graph Analytics, <em>[Julian Shun][julian]</em>
 * <b>5:15 -- 6:00</b> --- Panel Discussion.
 If you have any questions/topics you would like to see discussed during the panel, please submit them [here][form]!
@@ -57,6 +57,12 @@ Finally, we show that our ideas lead to highly scalable HAC implementations. In 
 
 <b>Abstract:</b>
 Dividing data or workload among capacity-bounded processors in a way that minimizes inter-processor communication is a fundamental application of balanced graph partitioning. This talk gives an overview of our recent work on parallelizing techniques for a variety of time-quality trade-offs. I will also discuss adaptations to hypergraphs, buffered streaming, partitioning into a large number of blocks, as well as intricacies of efficient parallel implementations.
+
+
+<b>Title: So You Want to Make a Dynamic Graph Data Structure</b> <em>([Brian Wheatman][brian])</em>
+
+<b>Abstract:</b>
+This talk discusses dynamic graph data structures and what to consider  when designing new ones.  It breaks the task of designing graph data structures into creating  structures that can support a few key operations efficiently.  The focus is on how different use cases, which can cause different data patterns and access patterns, can influence the design of these structures and how to exploit these differences to maximize performance.
 
 
 <b>Title: GraphIt - A High-Performance DSL for Graph Analytics</b> <em>([Julian Shun][julian])</em>
